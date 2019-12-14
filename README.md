@@ -1,4 +1,4 @@
-# **Betterment CaseStudy**
+# **Betterment Case Study**
 
 ### **Background** 
 
@@ -14,16 +14,15 @@
 
 ### **Strengths and Weaknesses**
 
-**Strengths**
+**Strengths** Roboavising model is cheaper 
 
 **Weaknesses**
 
 ### **Company Prognosis**
 
-_Current_
+**Current**
 
-_Future_
+**Future**
 
 
-in class case study 
 
