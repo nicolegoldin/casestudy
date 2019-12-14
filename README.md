@@ -1,24 +1,29 @@
-# casestudy
+# **Betterment CaseStudy**
+
+### **Background** 
+
+**What They Do** Betterment is a RoboAdvisor firm that advises their clients in regards to ETFs and mutual funds.
+
+**Competitors** We Invest, Bamboo, Wealthfront, Autowealth, Personal Capital
+
+### **How They Use Technology**
+
+**Technologies** Appropriate large amount of data focusing on baby boomers with a technology focus. They focus mainly on young people with capital to make investment decisions.
+
+**How They are Fintech** They utilize AI and machine learning to process and compute information for their RoboAdvisors. Also use the Black-Litterman Model to compute ideas. 
+
+### **Strengths and Weaknesses**
+
+**Strengths**
+
+**Weaknesses**
+
+### **Company Prognosis**
+
+_Current_
+
+_Future_
+
+
 in class case study 
 
-## Instructions
-
-H1 heading: A title for the FinTech case study
-
-
-Image: An image relevant to the case study
-
-
-H2 description: A description header
-
-
-Description content: Content for the description
-
-
-Contributors: The names of everyone in your group
-
-
-H3 heading: A title for the FinTech case study report
-
-
-Case study content: Content for the case study
